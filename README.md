@@ -1,7 +1,7 @@
 <H3>NAME: Gnanendran N</H3>
 <H3>REGISTER NO.: 212223240037</H3>
 <H3>EX. NO.5</H3>
-<H3>DATE:</H3>
+<H3>DATE: 16.10.2025</H3>
 <H1 ALIGN =CENTER>Implementation of XOR  using RBF</H1>
 
 # Aim:
